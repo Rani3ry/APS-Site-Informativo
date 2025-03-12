@@ -19,7 +19,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- Utilizado para aplicat funcionalidade e interação ao site
+- Utilizado para aplicar funcionalidade e interação ao site
 
 ## Acesse!
 
